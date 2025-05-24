@@ -33,7 +33,7 @@ export const createUser = async (req, res) => {
   res.status(201).json(req.body)
 }
 
-export const updtateUser = async (req, res) => {
+export const updatateUser = async (req, res) => {
 
   const id = parseInt(req.params.id)
 
