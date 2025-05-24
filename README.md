@@ -1,5 +1,13 @@
 # GitHub Codespaces ♥️ React
+https://github.com/arturguitelar/
 
+https://github.com/arturguitelar/simple-app-fullstack-javascript.git
+
+- https://youtu.be/N5dkg28jRF0?si=7yr9zcSxsaQFCMvL
+
+- https://www.prisma.io/docs/getting-started/setup-prisma/start-from-scratch/relational-databases/connect-your-database-typescript-postgresql
+
+simple-app-fullstack-javascript.git
 Welcome to your shiny new Codespace running React! We've got everything fired up and running for you to explore React.
 
 You've got a blank canvas to work on from a git perspective as well. There's a single initial commit with the what you're seeing right now - where you go from here is up to you!
